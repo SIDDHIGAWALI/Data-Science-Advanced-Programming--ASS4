@@ -1,0 +1,6 @@
+segment,headcount,age,tenure_years,monthly_salary,performance_rating,engagement_score,overtime_hours_month,absenteeism_days,training_hours,years_since_promotion,manager_rating,projects_handled,commute_km,attrition_rate,share_%
+High Performers,235,36.562,6.975,8029.064,4.495,8.146,18.413,2.136,48.255,1.566,4.393,5.953,14.804,0.132,19.6
+Steady Core,369,42.545,10.509,5882.71,3.503,7.126,8.206,4.033,25.341,3.494,3.91,4.016,17.786,0.146,30.8
+New Joiners,178,26.146,1.204,3761.685,3.098,6.864,9.258,3.275,38.112,0.633,3.813,2.73,14.152,0.163,14.8
+Burnout Risk,205,34.015,4.822,5155.561,3.88,4.418,41.956,9.824,14.707,3.204,3.022,7.878,27.249,0.829,17.1
+Disengaged Low Performers,213,39.967,6.886,4164.319,2.421,3.06,6.343,11.183,7.732,4.126,2.588,2.592,24.826,0.704,17.8
